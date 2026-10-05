@@ -1,0 +1,21 @@
+# Archivos del sistema macOS
+.DS_Store
+**/.DS_Store
+
+# Archivos específicos de R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Datos
+# Ignorar todos los CSV en la carpeta data
+data/*.csv
+data/*.xlsx
+data/*.rds
+
+# Archivos de salida (Gráficos, reportes generados)
+# Ignorar imágenes pero permitir la estructura de carpetas (gracias a .gitkeep)
+output/graficos/*.png
+output/graficos/*.pdf
+output/graficos/*.jpeg
