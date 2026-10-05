@@ -4,8 +4,11 @@
 Analizar y preparar el dataset **Hotel Bookings** mediante un proceso reproducible de limpieza y análisis exploratorio de datos, generando archivos de datos preparados y visualizaciones para el TB1.
 
 ## Integrantes
-- Grupo: 04
-- Integrantes: [Completar nombres]
+### Grupo: 04
+#### Integrantes: 
+- Jose Luis Sancho Navarro
+- Raul Tomas Bustamante Cruzado
+- Jacobo Emmanuel Díaz Beatriz 
 
 ## Descripción del dataset
 El dataset contiene **119,390 registros originales y 32 variables** relacionadas con reservas de hoteles. Incluye información del tipo de hotel, cancelaciones, anticipación de la reserva, fechas de llegada, duración de la estancia, características del huésped, canal de distribución, tipo de depósito, tarifa diaria (ADR), solicitudes especiales y estado de la reserva.
